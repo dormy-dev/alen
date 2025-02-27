@@ -1,0 +1,12 @@
+body{
+    background-color: beige;
+ color: black;
+ font-family: Georgia;
+}
+h1{
+    text-align: center;
+}
+
+.flexy {
+    display: flex;
+}
